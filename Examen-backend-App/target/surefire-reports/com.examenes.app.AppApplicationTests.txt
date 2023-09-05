@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.examenes.app.AppApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 13.811 s - in com.examenes.app.AppApplicationTests
